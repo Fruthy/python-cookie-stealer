@@ -1,4 +1,4 @@
-# python-stealer-example
+# What is this?
 
 Just example of Python cookie stealer.
 
@@ -11,6 +11,10 @@ After running detected cookie files will be copied to RUNNING_LOCATION/results f
 # Some info
 
 This is just example of how working Python stealer. If you wanna to send logs, you will should modify code.
+
+# Supporting browsers:
+
+That stealer support: Google Chrome, Opera, Yandex Browser. On next time will be added another browsers.
 
 # Dependencies:
 Getpass module(Getting UserName)
